@@ -6,7 +6,7 @@ export default function Home() {
     <div>
       <Button variant="contained" color="primary">
         {" "}
-        Click Me
+        s Click Me
       </Button>
     </div>
   );
