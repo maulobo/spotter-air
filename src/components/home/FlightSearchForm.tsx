@@ -97,7 +97,7 @@ export function FlightSearchForm() {
       sx={{
         maxWidth: 1200,
         mx: "auto",
-        mt: -6,
+
         mb: 4,
         zIndex: 10,
         position: "relative",
